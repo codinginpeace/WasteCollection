@@ -1,0 +1,5691 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Kadıköy Belediyesi Ambalaj Atık Toplama Konteynerleri 2023</name>
+    <Style id="icon-1850-01579B-normal">
+      <IconStyle>
+        <color>ff9b5701</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1850-01579B-highlight">
+      <IconStyle>
+        <color>ff9b5701</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1850-01579B">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1850-01579B-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1850-01579B-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>Bayar Cd. No:18</name>
+      <description><![CDATA[Mahalle: 19 Mayıs<br>Adet: 1<br>açıklama: TG]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>19 Mayıs</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>TG</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0860104,40.9774233,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sinan Ercan Cd. No:19</name>
+      <description><![CDATA[Mahalle: 19 Mayıs<br>Adet: 1<br>açıklama: TG]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>19 Mayıs</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>TG</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0883856,40.972658,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bayar Caddesi Okur Sokak</name>
+      <description><![CDATA[Mahalle: 19 Mayıs<br>Adet: 1<br>açıklama: *]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>19 Mayıs</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>*</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0913353,40.9752288,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Gülay Sk. No:6</name>
+      <description><![CDATA[Mahalle: 19 Mayıs<br>Adet: 1<br>açıklama: *]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>19 Mayıs</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>*</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0845597,40.967665,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Acıbadem Cd. No:126 </name>
+      <description><![CDATA[Mahalle: Acıbadem<br>Adet: 1<br>açıklama: Mc Donalds Karşısı]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Acıbadem</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>Mc Donalds Karşısı</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0445659,41.0040407,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bahçelerarası Sokak</name>
+      <description><![CDATA[Mahalle: Bostancı<br>Adet: 4<br>açıklama: Kaya Sitesi]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Bostancı</value>
+        </Data>
+        <Data name="Adet">
+          <value>4.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>Kaya Sitesi</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.108915,40.958706,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Vükela Caddesi No:29</name>
+      <description><![CDATA[Mahalle: Bostancı<br>Adet: 1<br>açıklama: Vükela Caddesi - Emin Ali Paşa Cad. Kesişimi]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Bostancı</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>Vükela Caddesi - Emin Ali Paşa Cad. Kesişimi</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.09519,40.958254,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ali Nihat Tarlan Cad. No:18</name>
+      <description><![CDATA[Mahalle: Bostancı<br>Adet: 1<br>açıklama: PTT]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Bostancı</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>PTT</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0949366,40.9550448,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bağdat Caddesi Girişi Bostancı</name>
+      <description><![CDATA[Mahalle: Bostancı<br>Adet: 1<br>açıklama: ]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Bostancı</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0953548,40.9533928,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bağdat Caddesi No:499</name>
+      <description><![CDATA[Mahalle: Bostancı<br>Adet: 1<br>açıklama: Big Chef's Önü *]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Bostancı</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value><![CDATA[Big Chef's Önü *]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0896511,40.9562612,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Yalı Yolu Sk. No:28</name>
+      <description><![CDATA[Mahalle: Bostancı<br>Adet: 1<br>açıklama: TG]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Bostancı</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>TG</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.1041404,40.9606523,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Abdülkadir Noyan Sk. Yeşillik Sk. Köşe</name>
+      <description><![CDATA[Mahalle: Caddebostan<br>Adet: 1<br>açıklama: CD1]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Caddebostan</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>CD1</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0705511,40.9630001,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bağdat Cd. Köşk Sk. Köşe</name>
+      <description><![CDATA[Mahalle: Caddebostan<br>Adet: 1<br>açıklama: CD4]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Caddebostan</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>CD4</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0739307,40.9640958,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bağdat Cd. No:317 Önü</name>
+      <description><![CDATA[Mahalle: Caddebostan<br>Adet: 1<br>açıklama: CD5]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Caddebostan</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>CD5</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.07044,40.965889,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bağdat Caddesi No:207C Önü</name>
+      <description><![CDATA[Mahalle: Caddebostan<br>Adet: 1<br>açıklama: CD6 *]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Caddebostan</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>CD6 *</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0560377,40.9736124,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bağdat Cd. No:233A</name>
+      <description><![CDATA[Mahalle: Caddebostan<br>Adet: 1<br>açıklama: CD7 *]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Caddebostan</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>CD7 *</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0596813,40.9716168,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bağdat Cd. No:283 Önü Eski Lale İşkembecisi Karşısı</name>
+      <description><![CDATA[Mahalle: Caddebostan<br>Adet: 1<br>açıklama: CD9]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Caddebostan</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>CD9</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0660375,40.9682063,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bağdat Cd. No:311 Tarım İl Müdürlüğü Önü</name>
+      <description><![CDATA[Mahalle: Caddebostan<br>Adet: 1<br>açıklama: CD10]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Caddebostan</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>CD10</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0694354,40.9664107,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Caddebostan Migros Otoparkı Önü</name>
+      <description><![CDATA[Mahalle: Caddebostan<br>Adet: 1<br>açıklama: CD11]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Caddebostan</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>CD11</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0657003,40.9636163,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Caddebostan Mahallesi Muhtarlık Önü Sarıgül Sokak </name>
+      <description><![CDATA[Mahalle: Caddebostan<br>Adet: 1<br>açıklama: CD12]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Caddebostan</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>CD12</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0616667,40.9688728,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Erenköy Cami Sk. No:14</name>
+      <description><![CDATA[Mahalle: Caddebostan<br>Adet: 1<br>açıklama: CD13]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Caddebostan</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>CD13</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0687619,40.9642725,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Gelengül Sk. No:20 Önü</name>
+      <description><![CDATA[Mahalle: Caddebostan<br>Adet: 1<br>açıklama: CD14]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Caddebostan</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>CD14</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0605447,40.9679421,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Haldun Taner Sk. Beyaz Akasya Sk. No:4A Önü Köşe</name>
+      <description><![CDATA[Mahalle: Caddebostan<br>Adet: 1<br>açıklama: CD15]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Caddebostan</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>CD15</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.065601,40.9671744,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hamiyet Yüceses Sk. No:2 Önü</name>
+      <description><![CDATA[Mahalle: Caddebostan<br>Adet: 1<br>açıklama: CD16]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Caddebostan</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>CD16</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0725599,40.962972,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Prof. Dr. Hulusi Behçet Cd. No:8 Önü</name>
+      <description><![CDATA[Mahalle: Caddebostan<br>Adet: 1<br>açıklama: CD17]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Caddebostan</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>CD17</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0574772,40.9681477,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Op. Cemil Topuzlu Cd. No:86 Önü</name>
+      <description><![CDATA[Mahalle: Caddebostan<br>Adet: 1<br>açıklama: CD19]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Caddebostan</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>CD19</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0579573,40.9665695,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Papatyalı Sk. No:13 Önü</name>
+      <description><![CDATA[Mahalle: Caddebostan<br>Adet: 1<br>açıklama: Tip 2 (Binaya Aittir)]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Caddebostan</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>Tip 2 (Binaya Aittir)</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0555245,40.9710178,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Op. Cemil Topuzlu Cd. Plaj Yolu Sk. Köşe </name>
+      <description><![CDATA[Mahalle: Caddebostan<br>Adet: 1<br>açıklama: CD21]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Caddebostan</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>CD21</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0630134,40.9653145,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hamam Sk. No:20 Yurtiçi Kargonun Önü
+</name>
+      <description><![CDATA[Mahalle: Caddebostan<br>Adet: 1<br>açıklama: CD22]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Caddebostan</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>CD22</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0686384,40.9691395,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sarı Gül Sokak No:2</name>
+      <description><![CDATA[Mahalle: Caddebostan<br>Adet: 1<br>açıklama: CD23]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Caddebostan</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>CD23</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0593539,40.9698704,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>50. Yıl Tahran Anadolu Lisesi Önü</name>
+      <description><![CDATA[Mahalle: Caddebostan<br>Adet: 1<br>açıklama: CD24]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Caddebostan</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>CD24</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0564737,40.9695894,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tanzimat Sk. Vardar Sk. (Şen Sk.) Köşe </name>
+      <description><![CDATA[Mahalle: Caddebostan<br>Adet: 1<br>açıklama: CD25 *]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Caddebostan</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>CD25 *</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0630168,40.9707793,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bağdat Cd. No:278</name>
+      <description><![CDATA[Mahalle: Caddebostan<br>Adet: 1<br>açıklama: *]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Caddebostan</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>*</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0639708,40.9691445,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Dr. Esat Işık Cd. No:42</name>
+      <description><![CDATA[Mahalle: Caferağa<br>Adet: 1<br>açıklama: ]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Caferağa</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.026883,40.984522,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Moda Caddesi No:70 Önü </name>
+      <description><![CDATA[Mahalle: Caferağa<br>Adet: 1<br>açıklama: *]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Caferağa</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>*</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.025563,40.9863111,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Moda Mektebi Sokak 1-3</name>
+      <description><![CDATA[Mahalle: Caferağa<br>Adet: 1<br>açıklama: SC10]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Caferağa</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>SC10</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0255278,40.980807,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Moda Caddesi 178 Starbucks Önü</name>
+      <description><![CDATA[Mahalle: Caferağa<br>Adet: 1<br>açıklama: SC21]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Caferağa</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>SC21</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0237135,40.9805869,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Dr. Esat Işık Caddesi Şair Latifi Sokak Kesişimi</name>
+      <description><![CDATA[Mahalle: Caferağa<br>Adet: 1<br>açıklama: SC22]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Caferağa</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>SC22</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0324503,40.9829009,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ferit Tek Sokak Çay BAhçesi Önü</name>
+      <description><![CDATA[Mahalle: Caferağa<br>Adet: 1<br>açıklama: ]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Caferağa</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0211381,40.9814896,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Fahrettin Kerim Gökay Cd. No:149</name>
+      <description><![CDATA[Mahalle: Eğitim<br>Adet: 1<br>açıklama: Mopaş Önü]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Eğitim</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>Mopaş Önü</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.048691,40.9860086,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sarayönü Cad. 3. Sigorta Evleri Sok.</name>
+      <description><![CDATA[Mahalle: Eğitim<br>Adet: 1<br>açıklama: *]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Eğitim</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>*</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0509737,40.9872865,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Fener Kalamış Cd. No:55</name>
+      <description><![CDATA[Mahalle: Fenerbahçe<br>Adet: 1<br>açıklama: Şok Market Önü]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Fenerbahçe</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>Şok Market Önü</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0422626,40.9741572,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Fener Kalamış Cd. No:58</name>
+      <description><![CDATA[Mahalle: Fenerbahçe<br>Adet: 1<br>açıklama: ]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Fenerbahçe</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.042435,40.976119,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Fener Kalamış Cd. No:12</name>
+      <description><![CDATA[Mahalle: Fenerbahçe<br>Adet: 1<br>açıklama: HSBC Bankası]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Fenerbahçe</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>HSBC Bankası</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0414115,40.980667,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Operatör Cemil Topuzlu Cd. No:7</name>
+      <description><![CDATA[Mahalle: Fenerbahçe<br>Adet: 1<br>açıklama: Starbucks]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Fenerbahçe</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>Starbucks</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.047776,40.973875,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Dr. Faruk Ayanoğlu Cd. No:38</name>
+      <description><![CDATA[Mahalle: Fenerbahçe<br>Adet: 1<br>açıklama: ]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Fenerbahçe</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0444635,40.9715352,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Fenerbahçe Orduevi</name>
+      <description><![CDATA[Mahalle: Fenerbahçe<br>Adet: 3<br>açıklama: ]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Fenerbahçe</value>
+        </Data>
+        <Data name="Adet">
+          <value>3.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0426974,40.9682326,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Dr. Faruk Ayanoğlu Cd. No:19</name>
+      <description><![CDATA[Mahalle: Fenerbahçe<br>Adet: 1<br>açıklama: ]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Fenerbahçe</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0458506,40.9742322,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Münir Nurettin Selçuk Cd.- Rüştiye Sk. Kesişimi</name>
+      <description><![CDATA[Mahalle: Fenerbahçe<br>Adet: 1<br>açıklama: ]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Fenerbahçe</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0382226,40.9810381,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bağdat Cd. No:157</name>
+      <description><![CDATA[Mahalle: Fenerbahçe<br>Adet: 1<br>açıklama: Büfe Önü *]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Fenerbahçe</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>Büfe Önü *</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0513099,40.9758231,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Boztepe Sk. No:14</name>
+      <description><![CDATA[Mahalle: Feneryolu<br>Adet: 1<br>açıklama: Özgürlük Parkı Karşısı]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Feneryolu</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>Özgürlük Parkı Karşısı</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.053441,40.980524,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Şemsettin Günaltay Caddesi Palas Cafe Önü</name>
+      <description><![CDATA[Mahalle: Erenköy<br>Adet: 1<br>açıklama: ER1]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Erenköy</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>ER1</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0806254,40.9751293,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Dilruba Sokak - N. Ali Berkol Köşe</name>
+      <description><![CDATA[Mahalle: Erenköy<br>Adet: 1<br>açıklama: ER2]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Erenköy</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>ER2</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.076342,40.9657425,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Çoban Yıldızı Sokak - Zihnipaşa Sokak Köşe </name>
+      <description><![CDATA[Mahalle: Erenköy<br>Adet: 1<br>açıklama: ER7]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Erenköy</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>ER7</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0813872,40.971399,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kazım Karabekir Sokak No:2 Önü </name>
+      <description><![CDATA[Mahalle: Erenköy<br>Adet: 1<br>açıklama: ER11]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Erenköy</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>ER11</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0780962,40.9687622,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Eralp Sokak Erenköy Gönüllü Evi Karşısı </name>
+      <description><![CDATA[Mahalle: Erenköy<br>Adet: 1<br>açıklama: ER12<br>ÇAÇA]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Erenköy</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>ER12
+ÇAÇA</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.075886,40.9720855,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kemal Okvuran Sokak No:18 Karşısı </name>
+      <description><![CDATA[Mahalle: Erenköy<br>Adet: 1<br>açıklama: ER16]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Erenköy</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>ER16</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.072485,40.9756011,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Atık Getirme Merkezi Erenköy Muhtarlık Yanı</name>
+      <description><![CDATA[Mahalle: Erenköy<br>Adet: 1<br>açıklama: ER17]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Erenköy</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>ER17</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0730858,40.9777395,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ethem Efendi Caddesi Fehmi Ekşioğlu İlkokulu Önü</name>
+      <description><![CDATA[Mahalle: Erenköy<br>Adet: 1<br>açıklama: ER20]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Erenköy</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>ER20</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0757117,40.9753834,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Yesari Asım Arsoy Sokak - Nimet Ekşioğlu Sokak Köşe </name>
+      <description><![CDATA[Mahalle: Erenköy<br>Adet: 1<br>açıklama: ER22]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Erenköy</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>ER22</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0772057,40.9746635,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Telli Kavak Sokak - Hatboyu Sokak Köşe - Jade Butik Önü </name>
+      <description><![CDATA[Mahalle: Erenköy<br>Adet: 1<br>açıklama: ER24]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Erenköy</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>ER24</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0764198,40.9725199,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Şevki Özengin Sokak - Kaptan Arif Sokak Köşe</name>
+      <description><![CDATA[Mahalle: Erenköy<br>Adet: 1<br>açıklama: ER29]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Erenköy</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>ER29</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0817266,40.9679895,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kantarcı Rıza Sokak - Kaşaneler Sokak Köşe</name>
+      <description><![CDATA[Mahalle: Erenköy<br>Adet: 1<br>açıklama: ER32]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Erenköy</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>ER32</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0747287,40.9682325,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Taş Mektep Sokak No:53 Önü </name>
+      <description><![CDATA[Mahalle: Erenköy<br>Adet: 1<br>açıklama: ER33]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Erenköy</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>ER33</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0693294,40.970999,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ethem Efendi Caddesi - Taş Mektep Sokak Köşe</name>
+      <description><![CDATA[Mahalle: Erenköy<br>Adet: 1<br>açıklama: ER34]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Erenköy</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>ER34</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0721175,40.9696381,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Telli Kavak Sokak - Gülçin Sokak Köşe </name>
+      <description><![CDATA[Mahalle: Erenköy<br>Adet: 1<br>açıklama: ER41]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Erenköy</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>ER41</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0796867,40.9709838,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ömer Paşa Sokak - Abdülhalik Renda Sokak Köşe</name>
+      <description><![CDATA[Mahalle: Erenköy<br>Adet: 1<br>açıklama: ER42]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Erenköy</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>ER42</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0686816,40.9723113,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ethem Efendi Cd. No:41 Ashaboğlu Apt. Önü</name>
+      <description><![CDATA[Mahalle: Erenköy<br>Adet: 1<br>açıklama: ER43]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Erenköy</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>ER43</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0745302,40.9733119,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Erenköy İstasyon Cd. Telli Kavak Sk. Köşe</name>
+      <description><![CDATA[Mahalle: Erenköy<br>Adet: 1<br>açıklama: ER44]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Erenköy</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>ER44</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0774095,40.9719195,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kaşaneler Sk. Gözenç Sk. Köşe</name>
+      <description><![CDATA[Mahalle: Erenköy<br>Adet: 1<br>açıklama: ER45]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Erenköy</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>ER45</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0764939,40.9673302,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Yesari Asım Arsoy Cd. No:11</name>
+      <description><![CDATA[Mahalle: Erenköy<br>Adet: 1<br>açıklama: ER47]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Erenköy</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>ER47</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0775502,40.9753551,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Yesari Asım Arsoy Sk. Yalçınkaya Sitesi Girişi </name>
+      <description><![CDATA[Mahalle: Erenköy<br>Adet: 1<br>açıklama: ER48]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Erenköy</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>ER48</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.076767,40.9736695,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mustafa Mazhar Bey Sokağı No:14</name>
+      <description><![CDATA[Mahalle: Göztepe<br>Adet: 1<br>açıklama: Özgürlük Parkı Önü]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Göztepe</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>Özgürlük Parkı Önü</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.053951,40.980457,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sevük Sk. No:7</name>
+      <description><![CDATA[Mahalle: Göztepe<br>Adet: 1<br>açıklama: ]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Göztepe</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0595367,40.9807444,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Perçem Sk. No:23</name>
+      <description><![CDATA[Mahalle: Göztepe<br>Adet: 1<br>açıklama: ]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Göztepe</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.060318,40.979233,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tütüncü Mehmet Efendi Cad. No:41 Karşısı </name>
+      <description><![CDATA[Mahalle: Göztepe<br>Adet: 1<br>açıklama: ]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Göztepe</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.064726,40.9764977,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Karanfil Sokak</name>
+      <description><![CDATA[Mahalle: Göztepe<br>Adet: 1<br>açıklama: Zabıta Birimi *]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Göztepe</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>Zabıta Birimi *</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0704304,40.9801107,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ahmet Refik Sk. No:9</name>
+      <description><![CDATA[Mahalle: Göztepe<br>Adet: 1<br>açıklama: TG]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Göztepe</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>TG</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0570243,40.9773048,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mustafa Kaya Sokak</name>
+      <description><![CDATA[Mahalle: Göztepe<br>Adet: 1<br>açıklama: TG]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Göztepe</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>TG</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0616392,40.983386,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Zeamet Sokak No:15-3 (Mezarlık Önü Yolda)</name>
+      <description><![CDATA[Mahalle: Hasanpaşa<br>Adet: 1<br>açıklama: ]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Hasanpaşa</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0458211,40.9996633,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Koşuyolu Cad. No:130 Önü</name>
+      <description><![CDATA[Mahalle: Koşuyolu<br>Adet: 1<br>açıklama: ]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Koşuyolu</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0357904,41.0077442,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Salih Omurtak Sk. Demirli Sitesi Önü</name>
+      <description><![CDATA[Mahalle: Koşuyolu<br>Adet: 1<br>açıklama: ]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Koşuyolu</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0360981,41.0061417,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mehmet Akman Sk. No:1</name>
+      <description><![CDATA[Mahalle: Koşuyolu<br>Adet: 1<br>açıklama: ]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Koşuyolu</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0414724,41.0098747,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ofton Elisium Elite Sitesi</name>
+      <description><![CDATA[Mahalle: Koşuyolu<br>Adet: 3<br>açıklama: ***]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Koşuyolu</value>
+        </Data>
+        <Data name="Adet">
+          <value>3.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>***</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0375546,41.0058907,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kozyatağı Mahalle Muhtarlığı Önü</name>
+      <description><![CDATA[Mahalle: Kozyatağı<br>Adet: 1<br>açıklama: ]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Kozyatağı</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0979463,40.9683705,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Taç Sokak No:12</name>
+      <description><![CDATA[Mahalle: Kozyatağı<br>Adet: 1<br>açıklama: Kozzy Önü]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Kozyatağı</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>Kozzy Önü</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.091105,40.96887,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bayar Cd. No:65</name>
+      <description><![CDATA[Mahalle: Kozyatağı<br>Adet: 1<br>açıklama: ]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Kozyatağı</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0929081,40.974684,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Şakacı Sokak No:16</name>
+      <description><![CDATA[Mahalle: Kozyatağı<br>Adet: 8<br>açıklama: Baytur Konutları]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Kozyatağı</value>
+        </Data>
+        <Data name="Adet">
+          <value>8.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>Baytur Konutları</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.093514,40.970607,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Belediye Blokları</name>
+      <description><![CDATA[Mahalle: Kozyatağı<br>Adet: 1<br>açıklama: Central Hastanesi]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Kozyatağı</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>Central Hastanesi</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0983566,40.9665391,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Şehit Mehmet Fatih Öngül Sokak - Garanti Bankası Önü</name>
+      <description><![CDATA[Mahalle: Kozyatağı<br>Adet: 1<br>açıklama: ÇAÇA]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Kozyatağı</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>ÇAÇA</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.1014022,40.9692165,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Seda Sokak No:3 (Central Hospital Alt Köşe)</name>
+      <description><![CDATA[Mahalle: Kozyatağı<br>Adet: 1<br>açıklama: ]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Kozyatağı</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0988792,40.9650842,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kozyatağı Sok. No:2 Önü</name>
+      <description><![CDATA[Mahalle: Kozyatağı<br>Adet: 1<br>açıklama: *]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Kozyatağı</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>*</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0970958,40.9628677,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Şair Arşi Cd. No:17</name>
+      <description><![CDATA[Mahalle: Merdivenköy<br>Adet: 1<br>açıklama: ]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Merdivenköy</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.072011,40.983952,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Yoğurtçu Parkı Caddesi No:28 Karşısı</name>
+      <description><![CDATA[Mahalle: Osmanağa<br>Adet: 1<br>açıklama: ]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Osmanağa</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0333536,40.9865379,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>İnönü Cd. No:8 Önü</name>
+      <description><![CDATA[Mahalle: Sahrayıcedit<br>Adet: 1<br>açıklama: SC3]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Sahrayıcedit</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>SC3</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0794932,40.9799844,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ferit Bey Sk. Karabekir Sokak Kesişim</name>
+      <description><![CDATA[Mahalle: Sahrayıcedit<br>Adet: 1<br>açıklama: SC4]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Sahrayıcedit</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>SC4</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0809889,40.9782797,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>İnönü Cd. No:38</name>
+      <description><![CDATA[Mahalle: Sahrayıcedit<br>Adet: 1<br>açıklama: SC6 MB]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Sahrayıcedit</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>SC6 MB</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0865378,40.9797496,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mescitli Sk. No:23</name>
+      <description><![CDATA[Mahalle: Sahrayıcedit<br>Adet: 1<br>açıklama: SC7]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Sahrayıcedit</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>SC7</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.084778,40.9805395,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>İnönü Cd. No:42</name>
+      <description><![CDATA[Mahalle: Sahrayıcedit<br>Adet: 1<br>açıklama: SC8]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Sahrayıcedit</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>SC8</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0877545,40.979562,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Halk Sk. No:27</name>
+      <description><![CDATA[Mahalle: Sahrayıcedit<br>Adet: 1<br>açıklama: SC11]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Sahrayıcedit</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>SC11</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0897364,40.9838291,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Halk Sk. No:31</name>
+      <description><![CDATA[Mahalle: Sahrayıcedit<br>Adet: 1<br>açıklama: SC12]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Sahrayıcedit</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>SC12</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0905099,40.9836018,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mengi Sokak Pelin (Uçar) Sokak</name>
+      <description><![CDATA[Mahalle: Sahrayıcedit<br>Adet: 1<br>açıklama: SC14]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Sahrayıcedit</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>SC14</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0869141,40.9828226,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Atatürk Caddesi Kireçhane Sokak Köşe</name>
+      <description><![CDATA[Mahalle: Sahrayıcedit<br>Adet: 1<br>açıklama: SC15]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Sahrayıcedit</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>SC15</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0868128,40.981405,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kireçhane Sokak Çelik Sokak Köşe</name>
+      <description><![CDATA[Mahalle: Sahrayıcedit<br>Adet: 1<br>açıklama: SC16]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Sahrayıcedit</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>SC16</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0849143,40.9836521,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Halk Sk. No:2</name>
+      <description><![CDATA[Mahalle: Sahrayıcedit<br>Adet: 1<br>açıklama: SC18]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Sahrayıcedit</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>SC18</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0852247,40.9851727,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cebesoy Sk. No:2 (ATIK GETİRME MERKEZİ)</name>
+      <description><![CDATA[Mahalle: Sahrayıcedit<br>Adet: 1<br>açıklama: SC19]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Sahrayıcedit</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>SC19</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0837082,40.9848505,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Adile Naşit Sk. No:6</name>
+      <description><![CDATA[Mahalle: Sahrayıcedit<br>Adet: 1<br>açıklama: SC20]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Sahrayıcedit</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>SC20</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0826779,40.9832975,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bankacılar Sk. No:16 Köşe</name>
+      <description><![CDATA[Mahalle: Sahrayıcedit<br>Adet: 1<br>açıklama: SC23]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Sahrayıcedit</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>SC23</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0816549,40.9866663,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bilginler Sokak Üst Çeşme Sokak Köşe</name>
+      <description><![CDATA[Mahalle: Sahrayıcedit<br>Adet: 1<br>açıklama: SC24]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Sahrayıcedit</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>SC24</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0777396,40.9863726,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Nezir Ağa Sk. No:3 Karşısı</name>
+      <description><![CDATA[Mahalle: Sahrayıcedit<br>Adet: 1<br>açıklama: SC25]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Sahrayıcedit</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>SC25</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0770477,40.9849603,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Orta Sokak Erya Otomotiv Önü</name>
+      <description><![CDATA[Mahalle: Sahrayıcedit<br>Adet: 1<br>açıklama: SC27]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Sahrayıcedit</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>SC27</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0762886,40.983135,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Dere Sokak Batman Sokak Köşe</name>
+      <description><![CDATA[Mahalle: Sahrayıcedit<br>Adet: 1<br>açıklama: SC28]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Sahrayıcedit</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>SC28</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.081005,40.988551,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Atatürk Cd. No:63 Otobüs Durağı Yanı</name>
+      <description><![CDATA[Mahalle: Sahrayıcedit<br>Adet: 1<br>açıklama: SC9]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Sahrayıcedit</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>SC9</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0898774,40.9811127,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Taşlıyol Sokak Nezirağa Köşe</name>
+      <description><![CDATA[Mahalle: Sahrayıcedit<br>Adet: 1<br>açıklama: A101 Köşe *]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Sahrayıcedit</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>A101 Köşe *</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0789732,40.9844418,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bağdat Cd. No:391</name>
+      <description><![CDATA[Mahalle: Suadiye<br>Adet: 1<br>açıklama: Garanti Bankası]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Suadiye</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>Garanti Bankası</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.076904,40.962289,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bağdat Cd. No:401</name>
+      <description><![CDATA[Mahalle: Suadiye<br>Adet: 1<br>açıklama: Nursace]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Suadiye</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>Nursace</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0785038,40.9614298,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bağdat Cd. No:469</name>
+      <description><![CDATA[Mahalle: Suadiye<br>Adet: 1<br>açıklama: ]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Suadiye</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0839347,40.9588703,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bağdat Cd. No:410</name>
+      <description><![CDATA[Mahalle: Suadiye<br>Adet: 1<br>açıklama: ]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Suadiye</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.079928,40.960541,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bağdat Cd. No:378</name>
+      <description><![CDATA[Mahalle: Suadiye<br>Adet: 1<br>açıklama: Nezih Kitap Evi]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Suadiye</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>Nezih Kitap Evi</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.075772,40.962746,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Şebboy Sokak Çamlı Sokak Kesişimi</name>
+      <description><![CDATA[Mahalle: Suadiye<br>Adet: 1<br>açıklama: TG]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Suadiye</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>TG</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0875742,40.9601146,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mustafa Mihriban Boysan Ortaokulu</name>
+      <description><![CDATA[Mahalle: Suadiye<br>Adet: 1<br>açıklama: TG]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Suadiye</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>TG</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0889265,40.9638528,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Yusuf Çavuş Sokak Aydın Sokak Kesişimi</name>
+      <description><![CDATA[Mahalle: Suadiye<br>Adet: 1<br>açıklama: TG]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Suadiye</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>TG</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0865295,40.9615868,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bağdat Caddesi No:475</name>
+      <description><![CDATA[Mahalle: Bostancı<br>Adet: 1<br>açıklama: *]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Bostancı</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>*</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0857267,40.9579865,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Münir Nurettin Selçuk Caddesi Kördere Sokağı Kesişimi</name>
+      <description><![CDATA[Mahalle: Zühtüpaşa<br>Adet: 1<br>açıklama: *]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Zühtüpaşa</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>*</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0362753,40.9854194,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bestekar Leyla Sokak</name>
+      <description><![CDATA[Mahalle: Zühtüpaşa<br>Adet: 1<br>açıklama: *]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Zühtüpaşa</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>*</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0434108,40.9869229,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Faik Bey Mescidi Sk. No:12</name>
+      <description><![CDATA[Mahalle: Acıbadem<br>Adet: 1<br>açıklama: *]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Acıbadem</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>*</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0461345,41.0097118,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Dr. Rıfatpaşa Sk. No:21</name>
+      <description><![CDATA[Mahalle: Göztepe<br>Adet: 1<br>açıklama: ]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Göztepe</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0695671,40.977557,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tanzimat Sk. No:74</name>
+      <description><![CDATA[Mahalle: Göztepe<br>Adet: 1<br>açıklama: ]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Göztepe</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0683901,40.9766688,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Avcı Sk. No:40</name>
+      <description><![CDATA[Mahalle: Göztepe<br>Adet: 1<br>açıklama: ]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Göztepe</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0695252,40.9751194,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bahariyeli Sk No:26</name>
+      <description><![CDATA[Mahalle: Göztepe<br>Adet: 1<br>açıklama: ]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Göztepe</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0674099,40.9740897,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bahariyeli Sk No:11</name>
+      <description><![CDATA[Mahalle: Göztepe<br>Adet: 1<br>açıklama: ]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Göztepe</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.065518,40.975188,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Taş Mektep Sokak - Tanzimat Sokak Kesişimi</name>
+      <description><![CDATA[Mahalle: Göztepe<br>Adet: 1<br>açıklama: ]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Göztepe</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0652001,40.9732044,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cengizhan Sk. No:5</name>
+      <description><![CDATA[Mahalle: Göztepe<br>Adet: 1<br>açıklama: ]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Göztepe</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0605632,40.9749902,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cavitpaşa Sk. No:39</name>
+      <description><![CDATA[Mahalle: Göztepe<br>Adet: 1<br>açıklama: ]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Göztepe</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.061245,40.9734338,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Yeşil Bahar Sk. No:44</name>
+      <description><![CDATA[Mahalle: Göztepe<br>Adet: 1<br>açıklama: ]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Göztepe</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.061155,40.9773435,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ayazma Sokak - Ahmet Refik Sokak Kesişimi</name>
+      <description><![CDATA[Mahalle: Göztepe<br>Adet: 1<br>açıklama: ]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Göztepe</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.056436,40.9764602,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mehmet Şeyda Sk. No:5</name>
+      <description><![CDATA[Mahalle: Göztepe<br>Adet: 1<br>açıklama: ]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Göztepe</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0545119,40.9772475,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Pınar Sokak - Evsen Sokak Kesişimi</name>
+      <description><![CDATA[Mahalle: Göztepe<br>Adet: 1<br>açıklama: ]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Göztepe</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0609195,40.9810522,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Pınar Sokak - İzzet Beltan Sokak Kesişimi</name>
+      <description><![CDATA[Mahalle: Göztepe<br>Adet: 1<br>açıklama: ]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Göztepe</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0621088,40.9816395,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Dr. Fazıl Gökçeören Sk. No:24</name>
+      <description><![CDATA[Mahalle: Göztepe<br>Adet: 1<br>açıklama: ]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Göztepe</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0635949,40.9820495,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Çemenzar Sokak - Tünek Sokak Kesişimi</name>
+      <description><![CDATA[Mahalle: Göztepe<br>Adet: 1<br>açıklama: ]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Göztepe</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0619934,40.9805353,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kaptan İhsan Sokak - Yeşil Bahar Sokak Kesişimi</name>
+      <description><![CDATA[Mahalle: Göztepe<br>Adet: 1<br>açıklama: ]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Göztepe</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0652899,40.9791104,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hamit Oskay Sk. No:2</name>
+      <description><![CDATA[Mahalle: Göztepe<br>Adet: 1<br>açıklama: ]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Göztepe</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0625274,40.9774256,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Oramiral Kemal Kayacan Sk. No:2</name>
+      <description><![CDATA[Mahalle: Göztepe<br>Adet: 1<br>açıklama: ]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Göztepe</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0608594,40.9781177,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Anka Çıkmazı Sokak</name>
+      <description><![CDATA[Mahalle: Suadiye<br>Adet: 2<br>açıklama: **]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Suadiye</value>
+        </Data>
+        <Data name="Adet">
+          <value>2.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>**</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0823394,40.9572193,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bayar Caddesi Erenköy Ruh ve Sinir Hastalıkları Hastanesi Önü</name>
+      <description><![CDATA[Mahalle: 19 Mayıs<br>Adet: 1<br>açıklama: *]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>19 Mayıs</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>*</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0890288,40.9761033,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ressam Salih Ermez Cd. No:8</name>
+      <description><![CDATA[Mahalle: Merdivenköy<br>Adet: 1<br>açıklama: *]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Merdivenköy</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>*</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.064081,40.9844993,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Nazenin Sokak Tekkealtı Sokak Kesişimi</name>
+      <description><![CDATA[Mahalle: Merdivenköy<br>Adet: 1<br>açıklama: *]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Merdivenköy</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>*</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0763153,40.9884927,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Zeamet Sokak Muhtar Bey Sokak Kesişimi</name>
+      <description><![CDATA[Mahalle: Acıbadem<br>Adet: 1<br>açıklama: *]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Acıbadem</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>*</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0416074,41.0009213,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Acıbadem Cd. No:61</name>
+      <description><![CDATA[Mahalle: Acıbadem<br>Adet: 1<br>açıklama: *]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Acıbadem</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>*</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.037774,40.998868,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bağdat Caddesi No:75 Önü</name>
+      <description><![CDATA[Mahalle: Feneryolu<br>Adet: 1<br>açıklama: Çaça *]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Feneryolu</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>Çaça *</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0424684,40.9804833,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tekin Sk. No:13</name>
+      <description><![CDATA[Mahalle: Acıbadem<br>Adet: 1<br>açıklama: *]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Acıbadem</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>*</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0439173,41.0068743,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Marmara Üni. Güzel San. Karşısı Fakülte Durağı Yanı</name>
+      <description><![CDATA[Mahalle: Acıbadem<br>Adet: 1<br>açıklama: *]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Acıbadem</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>*</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0462114,41.0056731,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Necipbey Sk No:4</name>
+      <description><![CDATA[Mahalle: Acıbadem<br>Adet: 1<br>açıklama: *]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Acıbadem</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>*</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0452956,41.0039173,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Nakkaş Sk. No:22-24</name>
+      <description><![CDATA[Mahalle: Acıbadem<br>Adet: 1<br>açıklama: *]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Acıbadem</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>*</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0478649,41.0045482,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Eminbey Sokak No:9A</name>
+      <description><![CDATA[Mahalle: Acıbadem<br>Adet: 1<br>açıklama: *]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Acıbadem</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>*</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0416154,41.0058907,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Köftüncü Sk. No:10 Karşısı </name>
+      <description><![CDATA[Mahalle: Acıbadem<br>Adet: 1<br>açıklama: *]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Acıbadem</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>*</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0387243,41.0023625,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lise Yolu Sk. No:5A Önü</name>
+      <description><![CDATA[Mahalle: Acıbadem<br>Adet: 1<br>açıklama: *]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Acıbadem</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>*</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0363483,41.0002556,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Çiftlik Sk. No:5 Önü</name>
+      <description><![CDATA[Mahalle: Acıbadem<br>Adet: 1<br>açıklama: *]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Acıbadem</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>*</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0349507,41.0015467,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kocayol Caddesi Kuru Kuyu Sokak Kesişimi</name>
+      <description><![CDATA[Mahalle: Bostancı<br>Adet: 1<br>açıklama: *öö]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Bostancı</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>*öö</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0959295,40.9617005,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Op. Cemil Topuzlu Caddesi Mahur Sokak Kesişimi</name>
+      <description><![CDATA[Mahalle: Fenerbahçe<br>Adet: 1<br>açıklama: *öö]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Fenerbahçe</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>*öö</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0521468,40.971641,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bostancı Hatboyu Sokak Müzeyyen Sokak Kesişimi</name>
+      <description><![CDATA[Mahalle: Suadiye<br>Adet: 1<br>açıklama: *öö]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Suadiye</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>*öö</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0858528,40.9601295,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tüccar Katibi Sokak Çolak İsmail Sokak Kesişimi</name>
+      <description><![CDATA[Mahalle: Suadiye<br>Adet: 1<br>açıklama: *öt]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Suadiye</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>*öt</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0819184,40.9626581,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Emanet Sk. No:2-4 Önü</name>
+      <description><![CDATA[Mahalle: Bostancı<br>Adet: 1<br>açıklama: *öt]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Bostancı</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>*öt</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.1024582,40.957443,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Prof. Dr. Ali Nihat Tarlan Caddesi Kuru Kuyu Sokak Kesişimi</name>
+      <description><![CDATA[Mahalle: Bostancı<br>Adet: 1<br>açıklama: *öz]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Bostancı</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>*öz</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0989557,40.9590565,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Selim Ragıp Emeç Sk. No:7 Önü</name>
+      <description><![CDATA[Mahalle: Suadiye<br>Adet: 1<br>açıklama: *]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Suadiye</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>*</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0802539,40.9582516,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ayşeçavuş Cd No:43 Önü</name>
+      <description><![CDATA[Mahalle: Suadiye<br>Adet: 1<br>açıklama: *]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Suadiye</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>*</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0862848,40.9647709,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Turşucudere Sk. No:29 Önü</name>
+      <description><![CDATA[Mahalle: Suadiye<br>Adet: 2<br>açıklama: * (Bina İçi?)]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Suadiye</value>
+        </Data>
+        <Data name="Adet">
+          <value>2.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>* (Bina İçi?)</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.091026,40.9592079,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kavisli Sokak</name>
+      <description><![CDATA[Mahalle: Suadiye<br>Adet: 1<br>açıklama: *]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Suadiye</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>*</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0835947,40.9670589,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hasan Ali Yücel Sk. No:19</name>
+      <description><![CDATA[Mahalle: Fenerbahçe<br>Adet: 1<br>açıklama: *]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Fenerbahçe</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>*</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.054678,40.972653,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Dr. Faruk Ayanoğlu Cd. No:7</name>
+      <description><![CDATA[Mahalle: Fenerbahçe<br>Adet: 1<br>açıklama: *]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Fenerbahçe</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>*</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0471304,40.9755537,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kurukuyu Sokak Prof. Dr. Kemal Akgüder Sokak Kesişimi</name>
+      <description><![CDATA[Mahalle: Bostancı<br>Adet: 1<br>açıklama: *]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Bostancı</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>*</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0973598,40.9604642,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Akasya Sk. No:21-23 Site İçi</name>
+      <description><![CDATA[Mahalle: Bostancı<br>Adet: 2<br>açıklama: *]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Bostancı</value>
+        </Data>
+        <Data name="Adet">
+          <value>2.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>*</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.1008302,40.961244,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Şemsettin Günaltay Cd. No:184</name>
+      <description><![CDATA[Mahalle: 19 Mayıs<br>Adet: 1<br>açıklama: *]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>19 Mayıs</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>*</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0840905,40.9706456,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sultan Sokak Çevre Sokak Kesişimi</name>
+      <description><![CDATA[Mahalle: 19 Mayıs<br>Adet: 1<br>açıklama: *]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>19 Mayıs</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>*</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.083587,40.975554,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Fuat Paşa Cd. No:32</name>
+      <description><![CDATA[Mahalle: Fenerbahçe<br>Adet: 1<br>açıklama: *]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Fenerbahçe</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>*</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0464127,40.9723877,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Fuat Paşa Cd. No:4</name>
+      <description><![CDATA[Mahalle: Fenerbahçe<br>Adet: 1<br>açıklama: *]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Fenerbahçe</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>*</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0428546,40.9741634,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Yoğurtçu Parkı Cad. Muhtarlık Karşısı </name>
+      <description><![CDATA[Mahalle: Caferağa<br>Adet: 1<br>açıklama: *]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Caferağa</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>*</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0331613,40.9846583,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bağdat Cd. No:168 </name>
+      <description><![CDATA[Mahalle: Fenerbahçe<br>Adet: 1<br>açıklama: *]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Fenerbahçe</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>*</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0498798,40.9761463,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Dar Yol Sk. No:7</name>
+      <description><![CDATA[Mahalle: Bostancı<br>Adet: 1<br>açıklama: *]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Bostancı</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>*</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0920614,40.9585875,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ethem Efendi Cd. No:22</name>
+      <description><![CDATA[Mahalle: Erenköy<br>Adet: 1<br>açıklama: *]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Erenköy</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>*</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0718063,40.9687678,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hazan Sk. No:45</name>
+      <description><![CDATA[Mahalle: Bostancı<br>Adet: 1<br>açıklama: ]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Bostancı</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.092041,40.9591489,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Eyüp Paşa Sk. No:18 </name>
+      <description><![CDATA[Mahalle: Feneryolu<br>Adet: 1<br>açıklama: ]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Feneryolu</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.05063,40.9786487,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Dr. Kemal Akgüder Cad. Miralay Tevfik Bey Sok. Köşe</name>
+      <description><![CDATA[Mahalle: Bostancı<br>Adet: 1<br>açıklama: *]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Bostancı</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>*</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.1005114,40.9635307,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Şemsettin Günaltay Cd. No:82</name>
+      <description><![CDATA[Mahalle: Kozyatağı<br>Adet: 1<br>açıklama: *]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Kozyatağı</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>*</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.088525,40.9646937,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kurukaya Sk. No:2 Önü</name>
+      <description><![CDATA[Mahalle: Bostancı<br>Adet: 1<br>açıklama: *]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Bostancı</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>*</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0997748,40.9613515,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kurbağalıdere Cd. No:15 Önü</name>
+      <description><![CDATA[Mahalle: Hasanpaşa<br>Adet: 1<br>açıklama: *]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Hasanpaşa</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>*</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0355221,40.9932661,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Gülden Sk. No:26-32 Kontek Sitesi Önü</name>
+      <description><![CDATA[Mahalle: Göztepe<br>Adet: 1<br>açıklama: *]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Göztepe</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>*</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0555213,40.9753579,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kadıpaşa Sk. No:6 Önü</name>
+      <description><![CDATA[Mahalle: 19 Mayıs<br>Adet: 1<br>açıklama: *]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>19 Mayıs</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>*</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0848333,40.9716266,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Şakacı Sokak - Beyaz Kanarya Sokak Kesişimi</name>
+      <description><![CDATA[Mahalle: Kozyatağı<br>Adet: 1<br>açıklama: *]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Kozyatağı</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>*</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0945461,40.9710365,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bayar Cad. - Gülbahar Sokak Kesişimi No:103 Önü</name>
+      <description><![CDATA[Mahalle: Kozyatağı<br>Adet: 1<br>açıklama: *]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Kozyatağı</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>*</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0997899,40.9708988,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Marmara Üni. Merkez Kütüphanesi Önü</name>
+      <description><![CDATA[Mahalle: Göztepe<br>Adet: 1<br>açıklama: *]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Göztepe</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>*</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0517891,40.9862937,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bayar Cd. No:42 Önü</name>
+      <description><![CDATA[Mahalle: Kozyatağı<br>Adet: 1<br>açıklama: *]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Kozyatağı</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>*</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0950797,40.9734662,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bağdat Cd. No:396 Önü</name>
+      <description><![CDATA[Mahalle: Suadiye<br>Adet: 1<br>açıklama: *]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Suadiye</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>*</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0780577,40.9614393,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hüseyin Ayanoğlu Sk. No:2</name>
+      <description><![CDATA[Mahalle: 19 Mayıs <br>Adet: <br>açıklama: ]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>19 Mayıs </value>
+        </Data>
+        <Data name="Adet">
+          <value/>
+        </Data>
+        <Data name="açıklama">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.088676,40.9720503,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Şemsettin Günaltay Cd. No:187 Önü</name>
+      <description><![CDATA[Mahalle: Erenköy<br>Adet: 1<br>açıklama: *]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Erenköy</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>*</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0795047,40.9760135,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>İlkyuva Sk. No:16 Önü</name>
+      <description><![CDATA[Mahalle: Merdivenköy<br>Adet: <br>açıklama: ]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Merdivenköy</value>
+        </Data>
+        <Data name="Adet">
+          <value/>
+        </Data>
+        <Data name="açıklama">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0756688,40.9812415,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kaptan Arif Sokağı No:68</name>
+      <description><![CDATA[Mahalle: Erenköy<br>Adet: 1<br>açıklama: *]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Erenköy</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>*</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0831858,40.9691395,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Şemsettin Günaltay Cd. No:230 Önü</name>
+      <description><![CDATA[Mahalle: 19 Mayıs<br>Adet: 1<br>açıklama: *]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>19 Mayıs</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>*</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.079255,40.9770529,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Gedikli Sk. No:24</name>
+      <description><![CDATA[Mahalle: Feneryolu<br>Adet: 1<br>açıklama: *]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Feneryolu</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>*</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0515442,40.9824048,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Saldıray Sk. No:10</name>
+      <description><![CDATA[Mahalle: Feneryolu<br>Adet: 1<br>açıklama: *]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Feneryolu</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>*</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0544299,40.9814957,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Marmara Üni. İçi</name>
+      <description><![CDATA[Mahalle: Eğitim<br>Adet: 1<br>açıklama: ]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Eğitim</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.053216,40.9867095,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sarayönü Cd. Çırağan Sokak Karşısı</name>
+      <description><![CDATA[Mahalle: Eğitim<br>Adet: 1<br>açıklama: ]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Eğitim</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0514966,40.9896132,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kıraç Sokak - Mehmet Şengül Sokak Kesişimi </name>
+      <description><![CDATA[Mahalle: Fenerbahçe<br>Adet: 1<br>açıklama: ]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Fenerbahçe</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0518235,40.9728855,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Şht. Emin Çölen Sk. No:4 Önü</name>
+      <description><![CDATA[Mahalle: Acıbadem<br>Adet: 1<br>açıklama: ]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Acıbadem</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0450058,41.0029372,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Turapoğlu Sokak Ozan Sokak Kesişimi</name>
+      <description><![CDATA[Mahalle: 19 Mayıs<br>Adet: 1<br>açıklama: *]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>19 Mayıs</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>*</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0921575,40.9794534,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Uzunçayır Cd. No:43</name>
+      <description><![CDATA[Mahalle: Hasanpaşa<br>Adet: 1<br>açıklama: *]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Hasanpaşa</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>*</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.046744,40.9963307,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Uzunçayır Cd. No:23</name>
+      <description><![CDATA[Mahalle: Hasanpaşa<br>Adet: 1<br>açıklama: *]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Hasanpaşa</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>*</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.044205,40.995681,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hızırbey Cd. No:209</name>
+      <description><![CDATA[Mahalle: Dumlupınar<br>Adet: 1<br>açıklama: *]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Dumlupınar</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>*</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0581344,40.9874446,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Şemsettin Günaltay Cd. No:13</name>
+      <description><![CDATA[Mahalle: Bostancı<br>Adet: 1<br>açıklama: *]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Bostancı</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>*</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.094298,40.9597345,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Şemsettin Günaltay Cd. Şehit Evliya Sokak Kesişimi</name>
+      <description><![CDATA[Mahalle: Suadiye<br>Adet: 1<br>açıklama: *]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Suadiye</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>*</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0898139,40.9629788,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Şemsettin Günaltay Cd. No:110</name>
+      <description><![CDATA[Mahalle: Bostancı<br>Adet: 1<br>açıklama: *]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Bostancı</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>*</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.087387,40.9660829,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Yalıyolu Sokak İpekçi Sokak Kesişimi</name>
+      <description><![CDATA[Mahalle: Bostancı<br>Adet: 1<br>açıklama: *]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Bostancı</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>*</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.1050172,40.9616658,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Emanet Sk. No:33 Karşısı</name>
+      <description><![CDATA[Mahalle: Bostancı<br>Adet: 1<br>açıklama: *]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Bostancı</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>*</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.1037009,40.9606959,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bostanlararası Sokağı No:33</name>
+      <description><![CDATA[Mahalle: Bostancı<br>Adet: 1<br>açıklama: *]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Bostancı</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>*</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.1053959,40.9576523,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bostanlararası Sokak Armağan Sokak Kesişimi</name>
+      <description><![CDATA[Mahalle: Bostancı<br>Adet: 1<br>açıklama: *]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Bostancı</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>*</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.1078163,40.9585885,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Armağan Sokak Kaya Sitesi Girişi</name>
+      <description><![CDATA[Mahalle: Bostancı<br>Adet: 1<br>açıklama: *]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Bostancı</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>*</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.1076202,40.9597304,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>İbrahim Ağa Sokak Diyaliz Merkezi Önü</name>
+      <description><![CDATA[Mahalle: Bostancı<br>Adet: 1<br>açıklama: *]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Bostancı</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>*</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.1031739,40.9658314,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kaya Sultan Sokak Şehit İlknur Keleş Sokak Kesişimi</name>
+      <description><![CDATA[Mahalle: Kozyatağı<br>Adet: 1<br>açıklama: *]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Kozyatağı</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>*</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.099743,40.9681482,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Şemsettin Günaltay Cd. No:131</name>
+      <description><![CDATA[Mahalle: Suadiye<br>Adet: 1<br>açıklama: *]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Suadiye</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>*</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0833729,40.9715118,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Fahrettin Kerim Gökay Cad. Ressam Salih Ermez Cad. Kesişimi</name>
+      <description><![CDATA[Mahalle: Merdivenköy<br>Adet: 1<br>açıklama: *]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Merdivenköy</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>*</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0614638,40.9837186,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Karakolhane Cd. No:90</name>
+      <description><![CDATA[Mahalle: Rasimpaşa<br>Adet: 1<br>açıklama: Tip 2]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Rasimpaşa</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>Tip 2</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.029048,40.997152,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Aslan Kaptan Çk. No:2</name>
+      <description><![CDATA[Mahalle: Sahrayıcedit<br>Adet: 1<br>açıklama: Tip 2]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Sahrayıcedit</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>Tip 2</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0908318,40.9814697,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Gazi Muhtarpaşa Sokağı No:29</name>
+      <description><![CDATA[Mahalle: Feneryolu<br>Adet: 2<br>açıklama: Tip 2]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Feneryolu</value>
+        </Data>
+        <Data name="Adet">
+          <value>2.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>Tip 2</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0517564,40.9812416,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Çoban Yıldızı Sk. No:26</name>
+      <description><![CDATA[Mahalle: Erenköy<br>Adet: 1<br>açıklama: Tip 2]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Erenköy</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>Tip 2</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0820057,40.9709061,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Halitağa Cd. No:80</name>
+      <description><![CDATA[Mahalle: Rasimpaşa<br>Adet: 1<br>açıklama: Tip 2]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Rasimpaşa</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>Tip 2</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0318017,40.9939724,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mehmet Ertem Alp Sk. No:2</name>
+      <description><![CDATA[Mahalle: Erenköy<br>Adet: 1<br>açıklama: Tip 2]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Erenköy</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>Tip 2</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.078356,40.9698475,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kızılay Sokak No:1 İhsan Sungu İÖO Önü Cam Kumbara Yanı</name>
+      <description><![CDATA[Mahalle: Rasimpaşa<br>Adet: 1<br>açıklama: Tip 2]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Rasimpaşa</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>Tip 2</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.032476,40.9924343,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Zümrüt Çıkmazı Sokak Caddebostan Park Konutları Önü</name>
+      <description><![CDATA[Mahalle: Caddebostan<br>Adet: 1<br>açıklama: Tip 2]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Caddebostan</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>Tip 2</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0595031,40.9676598,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kortanpaşa Sk. No:4</name>
+      <description><![CDATA[Mahalle: Göztepe<br>Adet: 1<br>açıklama: Tip 2]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Göztepe</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>Tip 2</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0511586,40.9764646,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Albay Faik Sözdener Cad. Mühürdar Cad. Kesişimi</name>
+      <description><![CDATA[Mahalle: Caferağa<br>Adet: 1<br>açıklama: Tip 2]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Caferağa</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>Tip 2</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.021539,40.9874177,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Taşmektep Sokağı No:65 </name>
+      <description><![CDATA[Mahalle: Erenköy<br>Adet: 1<br>açıklama: Tip 2]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Erenköy</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>Tip 2</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.071031,40.970247,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Nautilus AVM Atık Getirme Merkezi</name>
+      <description><![CDATA[Mahalle: Acıbadem<br>Adet: 1<br>açıklama: ]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Acıbadem</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0313675,40.9999816,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Medrese Çıkmazı Sokak</name>
+      <description><![CDATA[Mahalle: Kozyatağı<br>Adet: 1<br>açıklama: Tip 2]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Kozyatağı</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>Tip 2</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0980566,40.9649529,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Şakacı Sk. No:47</name>
+      <description><![CDATA[Mahalle: Kozyatağı<br>Adet: 1<br>açıklama: Tip 2]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Kozyatağı</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>Tip 2</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0898132,40.9676742,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Papatya Sk. No:13</name>
+      <description><![CDATA[Mahalle: Bostancı<br>Adet: 1<br>açıklama: Tip 2]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Bostancı</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>Tip 2</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.1062992,40.9620749,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Yürekli Sokak No:2</name>
+      <description><![CDATA[Mahalle: Erenköy<br>Adet: 1<br>açıklama: Tip 2]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Erenköy</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>Tip 2</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0792032,40.9751647,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Prof. Dr. Kemal Akgüder Cd No:5</name>
+      <description><![CDATA[Mahalle: Bostancı<br>Adet: 1<br>açıklama: Tip 2]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Bostancı</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>Tip 2</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0961362,40.9596975,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Merdivenköy Yolu Sk. No:33</name>
+      <description><![CDATA[Mahalle: Merdivenköy<br>Adet: 1<br>açıklama: Tip 2]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Merdivenköy</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>Tip 2</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0653835,40.9875049,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hafız İmam Sk. No:16</name>
+      <description><![CDATA[Mahalle: Sahrayıcedit<br>Adet: 1<br>açıklama: Tip 2]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Sahrayıcedit</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>Tip 2</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.078256,40.9827749,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Emanet Sk. No:5</name>
+      <description><![CDATA[Mahalle: Bostancı<br>Adet: 1<br>açıklama: Tip 2]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Bostancı</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>Tip 2</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.1023897,40.9577756,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Plaj Yolu Sk. No:12</name>
+      <description><![CDATA[Mahalle: Caddebostan<br>Adet: 1<br>açıklama: Tip 2]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Caddebostan</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>Tip 2</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0810586,40.9575213,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hazım Tepeyran Sokağı No:8</name>
+      <description><![CDATA[Mahalle: 19 Mayıs<br>Adet: 1<br>açıklama: Tip 2]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>19 Mayıs</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>Tip 2</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0857825,40.9668727,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Fener Kalamış Caddesi No:53</name>
+      <description><![CDATA[Mahalle: Fenerbahçe<br>Adet: 1<br>açıklama: Tip 2]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Fenerbahçe</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>Tip 2</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0427638,40.9760186,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Şakacı Sk. No:86</name>
+      <description><![CDATA[Mahalle: 19 Mayıs<br>Adet: 1<br>açıklama: Tip 2]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>19 Mayıs</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>Tip 2</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0873269,40.9685024,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Fener Kalamış Caddesi No:65 Önü</name>
+      <description><![CDATA[Mahalle: Fenerbahçe<br>Adet: 1<br>açıklama: Tip 1]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Fenerbahçe</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>Tip 1</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0410283,40.9731011,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Fahrettin Kerim Gökay Caddesi No:65</name>
+      <description><![CDATA[Mahalle: Hasanpaşa<br>Adet: 1<br>açıklama: Tip 2]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Hasanpaşa</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>Tip 2</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0391372,40.9921139,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Burçak Sk No:4</name>
+      <description><![CDATA[Mahalle: Göztepe<br>Adet: 1<br>açıklama: ]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Göztepe</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0555338,40.9762004,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bostan Tariki Sokak Tayyareci Resmi Sokak Kesişim</name>
+      <description><![CDATA[Mahalle: Bostancı<br>Adet: 1<br>açıklama: Tip 2 ]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Bostancı</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>Tip 2 </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0966793,40.9545607,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Vukela Cd. No:19 Önü</name>
+      <description><![CDATA[Mahalle: Bostancı<br>Adet: 1<br>açıklama: *ö]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Bostancı</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>*ö</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.094669,40.9571738,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Uzunçayır Cd. No:63</name>
+      <description><![CDATA[Mahalle: Hasanpaşa<br>Adet: 1<br>açıklama: *]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Hasanpaşa</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>*</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0502643,40.9988424,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hüseyin Hüsnü Paşa Sk. No:11</name>
+      <description><![CDATA[Mahalle: Feneryolu<br>Adet: 1<br>açıklama: Tip 2 ]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Feneryolu</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>Tip 2 </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.056061,40.9830148,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ömer Paşa Sk. No:61</name>
+      <description><![CDATA[Mahalle: Göztepe<br>Adet: 1<br>açıklama: Tip 2 ]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Göztepe</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>Tip 2 </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0728274,40.9781965,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>F.KERİM GÖKAY CD. NO:1 AKBANK ÖNÜ</name>
+      <description><![CDATA[Mahalle: Hasanpaşa<br>Adet: 1<br>açıklama: Tip 2 ]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Hasanpaşa</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>Tip 2 </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0379297,40.9942872,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bayar Cd. No:66 Oyak Sitesi</name>
+      <description><![CDATA[Mahalle: Kozyatağı<br>Adet: 1<br>açıklama: Tip 2 ]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Kozyatağı</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>Tip 2 </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0978204,40.9713562,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kozyatağı Sk. No:10</name>
+      <description><![CDATA[Mahalle: Kozyatağı<br>Adet: 1<br>açıklama: Tip 2 ]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Kozyatağı</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>Tip 2 </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0978986,40.9638581,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Atılay Sk. No:18</name>
+      <description><![CDATA[Mahalle: Feneryolu<br>Adet: 1<br>açıklama: Tip 2 ]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Feneryolu</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>Tip 2 </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0568501,40.9831843,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>İCLAL KARABEKİR SK. AÇELYA SK. KESİŞİMİ</name>
+      <description><![CDATA[Mahalle: Erenköy<br>Adet: 1<br>açıklama: Tip 2 ]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Erenköy</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>Tip 2 </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0791607,40.9664857,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Egemen Sk. No:25 Karşısı</name>
+      <description><![CDATA[Mahalle: Fenerbahçe<br>Adet: 1<br>açıklama: Tip 2]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Fenerbahçe</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>Tip 2</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0462485,40.9775196,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Acun Sk. No:5</name>
+      <description><![CDATA[Mahalle: Suadiye<br>Adet: 1<br>açıklama: Tip 2]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Suadiye</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>Tip 2</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0781604,40.9658564,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kadıpaşa Sk. No:22</name>
+      <description><![CDATA[Mahalle: Kozyatağı<br>Adet: 1<br>açıklama: Tip 2]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Kozyatağı</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>Tip 2</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.089215,40.9698639,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bağdat Cd. No:133 </name>
+      <description><![CDATA[Mahalle: Feneryolu<br>Adet: 1<br>açıklama: Vakıfbank *]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Feneryolu</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>Vakıfbank *</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.047881,40.977281,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Münir Nurettin Selçuk Cd. No :52 Karşısı</name>
+      <description><![CDATA[Mahalle: Fenerbahçe<br>Adet: 1<br>açıklama: Tip 2]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Fenerbahçe</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>Tip 2</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0392456,40.9800653,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ATIKSIZ YAŞAM DÜKKANI GİRİŞİ- GAZİ MUHTAR PAŞA SK. NO:57</name>
+      <description><![CDATA[Mahalle: Feneryolu<br>Adet: 1<br>açıklama: Tip 2 ]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Feneryolu</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>Tip 2 </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0478349,40.9782148,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Özalp Sk. No:7</name>
+      <description><![CDATA[Mahalle: Zühtüpaşa<br>Adet: 1<br>açıklama: Tip 2 ]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Zühtüpaşa</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>Tip 2 </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0403819,40.9872802,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Volkan Sokak No:4</name>
+      <description><![CDATA[Mahalle: Dumlupınar<br>Adet: 1<br>açıklama: Tip 2]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Dumlupınar</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>Tip 2</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0554518,40.9894382,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Münir Nurettin Selçuk Caddesi No:23</name>
+      <description><![CDATA[Mahalle: Fenerbahçe<br>Adet: 1<br>açıklama: Tip 2]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Fenerbahçe</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>Tip 2</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0409436,40.9754406,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Muallim Sokak No: 2 </name>
+      <description><![CDATA[Mahalle: Kozyatağı<br>Adet: 1<br>açıklama: Tip 1]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Kozyatağı</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>Tip 1</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0969217,40.9668397,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Gün Sokak</name>
+      <description><![CDATA[Mahalle: Kozyatağı<br>Adet: 1<br>açıklama: ]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Mahalle">
+          <value>Kozyatağı</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.0906395,40.9670603,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

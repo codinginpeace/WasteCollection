@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Kadıköy Belediyesi Ambalaj Atık Toplama Konteynerleri 2023</name>
+    <Style id="icon-1850-01579B-normal">
+      <IconStyle>
+        <color>ff9b5701</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1850-01579B-highlight">
+      <IconStyle>
+        <color>ff9b5701</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1850-01579B">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1850-01579B-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1850-01579B-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>Acıbadem Cd. No:126 </name>
+      <description><![CDATA[description: Mahalle: Acıbadem<br>Adet: 1<br>açıklama: Mc Donalds Karşısı<br>Mahalle: Acıbadem<br>Adet: 1.0<br>açıklama: Mc Donalds Karşısı]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value>Mahalle: Acıbadem
+Adet: 1
+açıklama: Mc Donalds Karşısı</value>
+        </Data>
+        <Data name="Mahalle">
+          <value>Acıbadem</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>Mc Donalds Karşısı</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.044566,41.004041,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Koşuyolu Cad. No:130 Önü</name>
+      <description><![CDATA[description: Mahalle: Koşuyolu<br>Adet: 1<br>açıklama:<br>Mahalle: Koşuyolu<br>Adet: 1.0<br>açıklama: ]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value>Mahalle: Koşuyolu
+Adet: 1
+açıklama:</value>
+        </Data>
+        <Data name="Mahalle">
+          <value>Koşuyolu</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.03579,41.007744,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Salih Omurtak Sk. Demirli Sitesi Önü</name>
+      <description><![CDATA[description: Mahalle: Koşuyolu<br>Adet: 1<br>açıklama:<br>Mahalle: Koşuyolu<br>Adet: 1.0<br>açıklama: ]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value>Mahalle: Koşuyolu
+Adet: 1
+açıklama:</value>
+        </Data>
+        <Data name="Mahalle">
+          <value>Koşuyolu</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.036098,41.006142,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mehmet Akman Sk. No:1</name>
+      <description><![CDATA[description: Mahalle: Koşuyolu<br>Adet: 1<br>açıklama:<br>Mahalle: Koşuyolu<br>Adet: 1.0<br>açıklama: ]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value>Mahalle: Koşuyolu
+Adet: 1
+açıklama:</value>
+        </Data>
+        <Data name="Mahalle">
+          <value>Koşuyolu</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.041472,41.009875,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ofton Elisium Elite Sitesi</name>
+      <description><![CDATA[description: Mahalle: Koşuyolu<br>Adet: 3<br>açıklama: ***<br>Mahalle: Koşuyolu<br>Adet: 3.0<br>açıklama: ***]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value>Mahalle: Koşuyolu
+Adet: 3
+açıklama: ***</value>
+        </Data>
+        <Data name="Mahalle">
+          <value>Koşuyolu</value>
+        </Data>
+        <Data name="Adet">
+          <value>3.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>***</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.037555,41.005891,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Faik Bey Mescidi Sk. No:12</name>
+      <description><![CDATA[description: Mahalle: Acıbadem<br>Adet: 1<br>açıklama: *<br>Mahalle: Acıbadem<br>Adet: 1.0<br>açıklama: *]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value>Mahalle: Acıbadem
+Adet: 1
+açıklama: *</value>
+        </Data>
+        <Data name="Mahalle">
+          <value>Acıbadem</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>*</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.046134,41.009712,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tekin Sk. No:13</name>
+      <description><![CDATA[description: Mahalle: Acıbadem<br>Adet: 1<br>açıklama: *<br>Mahalle: Acıbadem<br>Adet: 1.0<br>açıklama: *]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value>Mahalle: Acıbadem
+Adet: 1
+açıklama: *</value>
+        </Data>
+        <Data name="Mahalle">
+          <value>Acıbadem</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>*</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.043917,41.006874,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Marmara Üni. Güzel San. Karşısı Fakülte Durağı Yanı</name>
+      <description><![CDATA[description: Mahalle: Acıbadem<br>Adet: 1<br>açıklama: *<br>Mahalle: Acıbadem<br>Adet: 1.0<br>açıklama: *]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value>Mahalle: Acıbadem
+Adet: 1
+açıklama: *</value>
+        </Data>
+        <Data name="Mahalle">
+          <value>Acıbadem</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>*</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.046211,41.005673,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Necipbey Sk No:4</name>
+      <description><![CDATA[description: Mahalle: Acıbadem<br>Adet: 1<br>açıklama: *<br>Mahalle: Acıbadem<br>Adet: 1.0<br>açıklama: *]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value>Mahalle: Acıbadem
+Adet: 1
+açıklama: *</value>
+        </Data>
+        <Data name="Mahalle">
+          <value>Acıbadem</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>*</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.045296,41.003917,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Nakkaş Sk. No:22-24</name>
+      <description><![CDATA[description: Mahalle: Acıbadem<br>Adet: 1<br>açıklama: *<br>Mahalle: Acıbadem<br>Adet: 1.0<br>açıklama: *]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value>Mahalle: Acıbadem
+Adet: 1
+açıklama: *</value>
+        </Data>
+        <Data name="Mahalle">
+          <value>Acıbadem</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>*</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.047865,41.004548,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Eminbey Sokak No:9A</name>
+      <description><![CDATA[description: Mahalle: Acıbadem<br>Adet: 1<br>açıklama: *<br>Mahalle: Acıbadem<br>Adet: 1.0<br>açıklama: *]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value>Mahalle: Acıbadem
+Adet: 1
+açıklama: *</value>
+        </Data>
+        <Data name="Mahalle">
+          <value>Acıbadem</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value>*</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.041615,41.005891,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Şht. Emin Çölen Sk. No:4 Önü</name>
+      <description><![CDATA[description: Mahalle: Acıbadem<br>Adet: 1<br>açıklama:<br>Mahalle: Acıbadem<br>Adet: 1.0<br>açıklama: ]]></description>
+      <styleUrl>#icon-1850-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value>Mahalle: Acıbadem
+Adet: 1
+açıklama:</value>
+        </Data>
+        <Data name="Mahalle">
+          <value>Acıbadem</value>
+        </Data>
+        <Data name="Adet">
+          <value>1.0</value>
+        </Data>
+        <Data name="açıklama">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          29.045006,41.002937,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
