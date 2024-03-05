@@ -4,6 +4,7 @@ from functions.funct import all_subsets_except_depot
 import pandas as pd
 import requests
 from optimizer import find_optimal_route
+import xml.etree.ElementTree as ET
 
 # Function to convert dataframe to CSV for download
 
@@ -22,6 +23,29 @@ st.title("Waste Management Dasboard")
 vehicle_capacity = 8
 depot = 0
 
+tree = ET.parse('smaller.kml')
+root = tree.getroot()
+
+# KML namespace
+ns = {'kml': 'http://www.opengis.net/kml/2.2'}
+
+# Lists to hold parsed coordinates
+longitudes = []
+latitudes = []
+node_indexing = []
+
+# Extract the coordinates from the XML.
+nodeIndex = 1
+for placemark in root.findall('.//kml:Placemark', ns):
+    for point in placemark.findall('.//kml:Point', ns):
+        coordinates = point.find('.//kml:coordinates', ns).text
+        longitude, latitude, _ = coordinates.split(',')
+        longitudes.append(float(longitude))
+        latitudes.append(float(latitude))
+        node_indexing.append(nodeIndex)
+        nodeIndex += 1
+
+st.write(nodeIndex)
 node_indexing, road_distance_matrix, longitudes, latitudes = get_node_indexing_and_road_distance_matrix()
 
 # Sets and indices
