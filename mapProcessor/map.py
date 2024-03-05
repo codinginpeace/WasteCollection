@@ -101,7 +101,7 @@ def calculate_road_distance_matrix(longitudes, latitudes):
 
 def get_node_indexing_and_road_distance_matrix():
     # Load and parse the KML file
-    tree = ET.parse('simplified.kml')
+    tree = ET.parse('mapProcessor\simplified.kml')
     root = tree.getroot()
 
     # KML namespace
