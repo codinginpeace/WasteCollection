@@ -46,7 +46,7 @@ api_url = 'http://127.0.0.1:5001/optimize'
 
 
 data = {
-    'road_distance_matrix': road_distance_matrix.tolist(),  # Convert numpy array to list if needed
+    'road_distance_matrix': road_distance_matrix,
     'vehicle_capacity': vehicle_capacity,
     'depot': depot,
     'V': V,
@@ -55,6 +55,8 @@ data = {
     'demands': demands,
     'service_times': service_times,
 }
+print(data)  # Add this line to debug
+
 response = requests.post(api_url, json=data)
 
 if response.status_code == 200:

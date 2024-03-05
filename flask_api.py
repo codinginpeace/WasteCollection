@@ -90,20 +90,13 @@ def find_optimal_route(road_distance_matrix, vehicle_capacity, depot, V, N, K, d
 @app.route('/optimize', methods=['POST'])
 def optimize_route():
     data = request.json
-    road_distance_matrix = data['road_distance_matrix']
-    vehicle_capacity = data['vehicle_capacity']
-    depot = data['depot']
-    V = data['V']
-    N = data['N']
-    K = data['K']
-    demands = data['demands']
-    service_times = data['service_times']
-    
-    # Convert the received distance matrix into the format expected by your optimization function
-    df = pd.DataFrame(road_distance_matrix, index=V, columns=V)
+    required_keys = ['vehicle_capacity', 'road_distance_matrix', 'depot', 'V', 'N', 'K', 'demands', 'service_times']
+    for key in required_keys:
+        if key not in data:
+            return jsonify({'error': f'Missing key: {key}'}), 400  # Return a 400 Bad Request response
     
     # Call your optimization function
-    result = find_optimal_route(df.values.tolist(), vehicle_capacity, depot, V, N, K, demands, service_times)
+    result = find_optimal_route(road_distance_matrix.values.tolist(), vehicle_capacity, depot, V, N, K, demands, service_times)
     
     # Return the optimization results
     return jsonify(result)
