@@ -4,9 +4,6 @@ from gurobipy import Model, GRB
 from mapProcessor.map import get_node_indexing_and_road_distance_matrix
 from functions.funct import all_subsets_except_depot
 
-
-app = Flask(__name__)
-
 def get_outputs(m, depot, K, V, x):
     result = {'status': None, 'objective_value': None, 'routes': []}
     if m.status in [GRB.OPTIMAL, GRB.SUBOPTIMAL]:
@@ -86,49 +83,3 @@ def find_optimal_route(road_distance_matrix, vehicle_capacity, depot, V, N, K, d
     # Solve the model
     m.optimize()
     return get_outputs(m, depot, K, V, x)  # Adapt this function to return data instead of writing to Streamlit
-
-@app.route('/optimize', methods=['POST'])
-def optimize_route():
-    data = request.json
-    required_keys = ['vehicle_capacity', 'road_distance_matrix', 'depot', 'V', 'N', 'K', 'demands', 'service_times']
-    for key in required_keys:
-        if key not in data:
-            return jsonify({'error': f'Missing key: {key}'}), 400  # Return a 400 Bad Request response
-    
-    vehicle_capacity = data['vehicle_capacity']
-    road_distance_matrix = data['road_distance_matrix']  # This is already a list of lists; no need for .values.tolist()
-    depot = data['depot']
-    V = data['V']
-    N = data['N']
-    K = data['K']
-    demands = data['demands']
-    service_times = data['service_times']
-    
-    # Call your optimization function with the extracted variables
-    result = find_optimal_route(road_distance_matrix, vehicle_capacity, depot, V, N, K, demands, service_times)
-    
-    # Return the optimization results
-    return jsonify(result)
-
-
-def get_outputs_streamlit(m, depot, K, V, x):
-    # Adapt your original function to return data instead of printing or writing to Streamlit
-    # Return a dictionary or list that represents your optimization results
-    # Example (you need to adjust according to your actual data structure):
-    if m.status in [GRB.OPTIMAL, GRB.SUBOPTIMAL]:
-        routes = []
-        for k in range(K):
-            route = [depot]
-            while True:
-                i = route[-1]
-                next_node = next((j for j in V if i != j and x[i, j, k].X > 0.5), None)
-                if next_node is None or next_node == depot:
-                    break
-                route.append(next_node)
-            routes.append({'vehicle': k, 'route': route})
-        return {'status': 'success', 'routes': routes, 'objective_value': m.objVal}
-    else:
-        return {'status': 'error', 'message': 'No valid solution found.'}
-
-if __name__ == '__main__':
-    app.run(debug=True, port=5000)
