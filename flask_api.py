@@ -95,11 +95,21 @@ def optimize_route():
         if key not in data:
             return jsonify({'error': f'Missing key: {key}'}), 400  # Return a 400 Bad Request response
     
-    # Call your optimization function
-    result = find_optimal_route(road_distance_matrix.values.tolist(), vehicle_capacity, depot, V, N, K, demands, service_times)
+    vehicle_capacity = data['vehicle_capacity']
+    road_distance_matrix = data['road_distance_matrix']  # This is already a list of lists; no need for .values.tolist()
+    depot = data['depot']
+    V = data['V']
+    N = data['N']
+    K = data['K']
+    demands = data['demands']
+    service_times = data['service_times']
+    
+    # Call your optimization function with the extracted variables
+    result = find_optimal_route(road_distance_matrix, vehicle_capacity, depot, V, N, K, demands, service_times)
     
     # Return the optimization results
     return jsonify(result)
+
 
 def get_outputs_streamlit(m, depot, K, V, x):
     # Adapt your original function to return data instead of printing or writing to Streamlit
