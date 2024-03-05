@@ -33,14 +33,14 @@ depot = 0
 
 V = node_indexing  # List of vertices including the depot
 V = [0, 1, 2]
-#V = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]
+V = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]
 N = len(V)  # Number of vertices
 K = 1  # Number of vehicles; this value should be set based on your specific problem
 
 # Data extraction from the dataframe
 
-demands = [1, 1, 1] 
-service_times = [1, 1, 1]
+demands = [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+service_times = [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
 
 
 find_optimal_route(road_distance_matrix, vehicle_capacity, depot, V, N, K, demands, service_times)

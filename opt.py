@@ -59,7 +59,7 @@ def find_optimal_route(road_distance_matrix, vehicle_capacity, depot, V, N, K, d
 
     # Solve the model
     m.optimize()
-    get_outputs_streamlit(m, depot, K)
+    get_outputs_streamlit(m, depot, K, V)
     return True
 
 
@@ -84,7 +84,7 @@ def get_outputs(m, depot, K):
         print("No valid solution found.")
 
 
-def get_outputs_streamlit(m, depot, K):
+def get_outputs_streamlit(m, depot, K, V):
     # Output the solution
     if m.status in [GRB.OPTIMAL, GRB.SUBOPTIMAL]:
         st.write(f"Solution found with objective value: {m.objVal}")
