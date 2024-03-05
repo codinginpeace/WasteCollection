@@ -5,8 +5,6 @@ import xml.etree.ElementTree as ET
 import numpy as np
 import pandas as pd
 
-
-
 """# Functions"""
 
 def visualize_route(G, node_sequence):
@@ -125,11 +123,7 @@ def get_node_indexing_and_road_distance_matrix():
             node_indexing.append(nodeIndex)
             nodeIndex += 1
 
-    print("Initialization Started...")
-    print()
-
-    print("Coordinates are downloaded...")
-    print()
+ 
 
     #print(node_indexing)
     #print(longitudes)
