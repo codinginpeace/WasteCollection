@@ -128,4 +128,4 @@ def get_outputs_streamlit(m, depot, K, V, x):
         return {'status': 'error', 'message': 'No valid solution found.'}
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(debug=True, port=5001)
