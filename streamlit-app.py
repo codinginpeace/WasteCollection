@@ -2,6 +2,7 @@ import streamlit as st
 from opt import find_optimal_route
 from mapProcessor.map import get_node_indexing_and_road_distance_matrix
 from functions.funct import all_subsets_except_depot
+import pandas as pd
 # Function to convert dataframe to CSV for download
 
 # Your existing Streamlit app setup
@@ -16,8 +17,16 @@ st.set_page_config(
 st.header("Waste Management Dasboard")
 
 
-node_indexing, road_distance_matrix = get_node_indexing_and_road_distance_matrix()
+node_indexing, road_distance_matrix, longitudes, latitudes = get_node_indexing_and_road_distance_matrix()
 
+# Convert the distance matrix into a pandas DataFrame
+df = pd.DataFrame(road_distance_matrix, columns=[f"Node {i+1}" for i in range(len(longitudes))], index=[f"Node {i+1}" for i in range(len(latitudes))])
+
+# Display the DataFrame
+st.write("Road Distance Matrix (in meters):")
+st.write(df)
+
+st.subheader("Enter Parameters")
 # Parameters
 vehicle_capacity = 8
 depot = 0
@@ -34,4 +43,4 @@ service_times = [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
 
 
 find_optimal_route(road_distance_matrix, vehicle_capacity, depot, V, N, K, demands, service_times)
- 
+

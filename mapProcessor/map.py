@@ -133,9 +133,6 @@ def get_node_indexing_and_road_distance_matrix():
     location_point = (latitudes[0], longitudes[0])  # Using the first point as reference
     G = ox.graph_from_point(location_point, dist=1500, network_type='drive')
 
-    print("G has been created...")
-    print()
-
     # Plot the graph using ox.plot_graph() or ox.plot_graph_folium()
     ox.plot_graph(G)
 
@@ -145,14 +142,4 @@ def get_node_indexing_and_road_distance_matrix():
 
     road_distance_matrix = calculate_road_distance_matrix(longitudes, latitudes)
 
-    # Print or process the road distance matrix as needed
-    print("Road Distance Matrix calculated...")
-    print()
-    # Convert the distance matrix into a pandas DataFrame
-    df = pd.DataFrame(road_distance_matrix, columns=[f"Node {i+1}" for i in range(len(longitudes))], index=[f"Node {i+1}" for i in range(len(latitudes))])
-
-    # Display the DataFrame
-    print("Road Distance Matrix (in meters):")
-    print(df)
-
-    return node_indexing, road_distance_matrix
+    return node_indexing, road_distance_matrix, longitudes, latitudes
