@@ -4,4 +4,3 @@ streamlit
 osmnx
 networkx
 matplotlib
-xml.etree.ElementTree # This is part of the standard library and does not need to be included
