@@ -46,7 +46,7 @@ api_url = 'http://127.0.0.1:5001/optimize'
 
 
 data = {
-    'road_distance_matrix': road_distance_matrix.tolist(),  # Convert to list
+    #'road_distance_matrix': road_distance_matrix.tolist(),  # Convert to list
     'vehicle_capacity': vehicle_capacity,
     'depot': depot,
     'V': V,
