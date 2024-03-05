@@ -5,3 +5,5 @@ osmnx
 networkx
 matplotlib
 scikit-learn
+requests
+Flask

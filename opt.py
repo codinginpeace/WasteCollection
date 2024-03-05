@@ -1,3 +1,4 @@
+"""
 import pandas as pd
 from gurobipy import Model, GRB
 from mapProcessor.map import get_node_indexing_and_road_distance_matrix
@@ -60,54 +61,9 @@ def find_optimal_route(road_distance_matrix, vehicle_capacity, depot, V, N, K, d
     # Solve the model
     m.optimize()
     get_outputs(m, depot, K, V, x)
-    get_outputs_streamlit(m, depot, K, V, x)
+    #get_outputs_streamlit(m, depot, K, V, x)
     return True
 
-
-def get_outputs(m, depot, K, V, x):
-    # Output the solution
-    if m.status in [GRB.OPTIMAL, GRB.SUBOPTIMAL]:
-        print(f"Solution found with objective value: {m.objVal}")
-        for k in range(K):
-            # Initialize the route with the depot
-            route = [depot]
-            while True:
-                i = route[-1]
-                # Find the next node in the route
-                next_node = next((j for j in V if i != j and x[i, j, k].X > 0.5), None)
-                # If no next node or we're back at the depot, the route is complete
-                if next_node is None or next_node == depot:
-                    break
-                route.append(next_node)
-            # Print the final route for vehicle k
-            print(f"Vehicle {k} route: {route}")
-    else:
-        print("No valid solution found.")
-
-
-def get_outputs_streamlit(m, depot, K, V, x):
-    # Output the solution
-    if m.status in [GRB.OPTIMAL, GRB.SUBOPTIMAL]:
-        st.write(f"Solution found with objective value: {m.objVal}")
-        for k in range(K):
-            # Initialize the route with the depot
-            route = [depot]
-            while True:
-                i = route[-1]
-                # Find the next node in the route
-                next_node = next((j for j in V if i != j and x[i, j, k].X > 0.5), None)
-                # If no next node or we're back at the depot, the route is complete
-                if next_node is None or next_node == depot:
-                    break
-                route.append(next_node)
-            # Print the final route for vehicle k
-            st.write(f"Vehicle {k} route: {route}")
-    else:
-        st.write("No valid solution found.")
-
-
-
-"""
     # Output the solution
     if m.status in [GRB.OPTIMAL, GRB.SUBOPTIMAL]:
         print(f"Solution found with objective value: {m.objVal}")
