@@ -28,13 +28,13 @@ st.write(df)
 
 st.subheader("Enter Parameters")
 # Parameters
-vehicle_capacity = 8
+vehicle_capacity = 100
 depot = 0
 
 V = node_indexing  # List of vertices including the depot
 V = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]
 N = len(V)  # Number of vertices
-K = 2  # Number of vehicles; this value should be set based on your specific problem
+K = 1  # Number of vehicles; this value should be set based on your specific problem
 
 # Data extraction from the dataframe
 
