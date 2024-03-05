@@ -42,7 +42,7 @@ service_times = [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
 import requests
 
 # Assuming your Flask API is running on localhost port 5000
-api_url = 'http://127.0.0.1:5001/optimize'
+api_url = 'http://127.0.0.1:5000/optimize'
 
 
 data = {
