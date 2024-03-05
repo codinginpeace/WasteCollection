@@ -42,7 +42,8 @@ service_times = [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
 import requests
 
 # Assuming your Flask API is running on localhost port 5000
-api_url = 'http://localhost:5000/optimize'
+api_url = 'http://127.0.0.1:5000/optimize'
+
 data = {
     'road_distance_matrix': road_distance_matrix.tolist(),  # Convert numpy array to list if needed
     'vehicle_capacity': vehicle_capacity,
