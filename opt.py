@@ -4,24 +4,7 @@ from mapProcessor.map import get_node_indexing_and_road_distance_matrix
 from functions.funct import all_subsets_except_depot
 import streamlit as st
 
-node_indexing, road_distance_matrix = get_node_indexing_and_road_distance_matrix()
-
-# Parameters
-vehicle_capacity = 8
-depot = 0
-
-V = node_indexing  # List of vertices including the depot
-V = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]
-N = len(V)  # Number of vertices
-K = 2  # Number of vehicles; this value should be set based on your specific problem
-
-# Data extraction from the dataframe
-
-demands = [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
-service_times = [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
-
-
-def find_optimal_route(road_distance_matrix):
+def find_optimal_route(road_distance_matrix, vehicle_capacity, depot, V, N, K, demands, service_times):
     ### MODEL STARTS
     # Create the model
     m = Model("vrp")
@@ -76,11 +59,11 @@ def find_optimal_route(road_distance_matrix):
 
     # Solve the model
     m.optimize()
+    get_outputs_streamlit(m, depot, K)
+    return True
 
-    return m
 
-
-def get_outputs(m):
+def get_outputs(m, depot, K):
     # Output the solution
     if m.status in [GRB.OPTIMAL, GRB.SUBOPTIMAL]:
         print(f"Solution found with objective value: {m.objVal}")
@@ -101,7 +84,7 @@ def get_outputs(m):
         print("No valid solution found.")
 
 
-def get_outputs_streamlit(m):
+def get_outputs_streamlit(m, depot, K):
     # Output the solution
     if m.status in [GRB.OPTIMAL, GRB.SUBOPTIMAL]:
         st.write(f"Solution found with objective value: {m.objVal}")
