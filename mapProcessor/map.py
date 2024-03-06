@@ -4,6 +4,7 @@ import matplotlib.pyplot as plt
 import xml.etree.ElementTree as ET
 import numpy as np
 import pandas as pd
+import streamlit as st
 
 """# Functions"""
 
@@ -101,8 +102,11 @@ def calculate_road_distance_matrix(longitudes, latitudes):
 
 def get_node_indexing_and_road_distance_matrix():
     # Load and parse the KML file
-    tree = ET.parse('mapProcessor\simplified.kml')
+
+    kml_path = r'C:\Users\HUAWEI\Desktop\WasteCollection-st\smaller.kml'
+    tree = ET.parse(kml_path)
     root = tree.getroot()
+
 
     # KML namespace
     ns = {'kml': 'http://www.opengis.net/kml/2.2'}
@@ -114,6 +118,7 @@ def get_node_indexing_and_road_distance_matrix():
 
     # Extract the coordinates from the XML.
     nodeIndex = 1
+    st.write("Extracting the coordinates...")
     for placemark in root.findall('.//kml:Placemark', ns):
         for point in placemark.findall('.//kml:Point', ns):
             coordinates = point.find('.//kml:coordinates', ns).text
@@ -123,23 +128,25 @@ def get_node_indexing_and_road_distance_matrix():
             node_indexing.append(nodeIndex)
             nodeIndex += 1
 
- 
-
-    #print(node_indexing)
-    #print(longitudes)
-    #print(latitudes)
 
     # Specify the location to download the road network
     location_point = (latitudes[0], longitudes[0])  # Using the first point as reference
     G = ox.graph_from_point(location_point, dist=1500, network_type='drive')
 
-    # Plot the graph using ox.plot_graph() or ox.plot_graph_folium()
-    ox.plot_graph(G)
-
-    # For each point, find the nearest node in the network
-    nearest_nodes = [ox.distance.nearest_nodes(G, X=lon, Y=lat) for lat, lon in zip(latitudes, longitudes)]
-
-
+    # Save the graph to an image file
+    fig, ax = ox.plot_graph(G, show=False, close=False)
+    fig.savefig('graph.png', bbox_inches='tight')
+    plt.close(fig)
     road_distance_matrix = calculate_road_distance_matrix(longitudes, latitudes)
 
+    col1, col2 = st.columns([1,2])
+    
+    with col1:
+        # Display the image in Streamlit
+        st.subheader("Map")
+        st.image('graph.png')
+
+    with col2: 
+        st.subheader("Distance Matrix")
+        st.write(road_distance_matrix)
     return node_indexing, road_distance_matrix, longitudes, latitudes
